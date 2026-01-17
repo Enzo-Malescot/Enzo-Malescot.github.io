@@ -7,11 +7,11 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "en-FR"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Enzo Malescot Licence Double Diplôme Mathématiques/Physique"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Enzo"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Malescot Enzo"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Bonjour, je suis Enzo Malescot étudiant en troisième année de double licence Mathématiques-Physique à l'Université Paris-Saclay, j'ai toujours eu une forte attirance pour les sciences tout particulièrement pour la physique (j'avoue avec un peu de recul que j'ai vécu dans ma bulle scientifique, délaissant les autres matières au point de me demander parfois comment j'ai eu mon bac de français --'). Après le baccalauréat, j'ai effectué une année de césure à l'Arche d'Aigrefoin dans l'accompagnement de personnes en situation de handicap. Cette expérience fut la plus formatrice de ma vie. En effet, elle m'a permis d'en apprendre beaucoup sur moi-même, sur la vie et sur les valeurs qui sont réellement importantes. Fort de ce parcours atypique, j'ai pu aborder mes études avec une détermination totale, ce qui m'a permis d'intégrer la double licence de Paris-Saclay, un cursus d'excellence particulièrement exigeant."
   location         : "Earth"
   employer         : "Univeristé Paris-Saclay"
   uri              : # URL
@@ -35,13 +35,13 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : #"https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
