@@ -6,5 +6,4 @@ excerpt: 'Ce rapport de 20 pages détaille les recherches de mon équipe lors de
 date: 2024-11-01
 venue: 'Stage de L2, Laboratoire de Mathématiques d'Orsay '
 paperurl: '/assets/Rapport-corps-finis.pdf'
-citation: 'Malescot Enzo. (2024). "Étude sur les Corps Finis".'
 ---
