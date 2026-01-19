@@ -1,14 +1,12 @@
 ---
 title: "Poster : Étude des cavités Fabry-Pérot"
 collection: publications
-# ATTENTION : Le permalink DOIT être différent de celui de ton rapport !
+
 permalink: /publication/2025-poster-fabry-perot
 excerpt: 'Poster sur les cavités à 3 miroirs.'
 date: 2025-03-01
-venue: 'Stage de L2, Laboratoire à l'IJC Lab'
-# ATTENTION : Vérifie bien le chemin vers le PDF dans 'assets'
+venue: "Stage de L2, Laboratoire à l'IJC Lab"
 paperurl: '/assets/Poster_Cavites.pdf'
-citation: 'Enzo Malescot (2025). "Cavité optique à 3 miroirs".'
 ---
 
 ## Présentation du poster
