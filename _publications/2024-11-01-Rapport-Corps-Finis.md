@@ -1,5 +1,5 @@
 ---
-title: "Rapport sur les Corps-Finis Title Number 2"
+title: "Rapport sur les Corps-Finis"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
