@@ -3,7 +3,7 @@ title: "Rapport sur les Corps-Finis"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'Document écrit avec mon équipe sur l'étude des corps finis. Stage de L2.'
+excerpt: "Document écrit avec mon équipe sur l'étude des corps finis. Stage de L2."
 date: 2024-11-01
 
 paperurl: 'https://Enzo-Malescot.github.io/files/Rapport-corps-finis.pdf'
