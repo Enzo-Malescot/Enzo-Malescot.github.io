@@ -21,7 +21,8 @@ J'aime naviguer entre les extrêmes, là où la modélisation mathématique renc
 
 * **⚛️ L’infiniment petit (Quantique) :** Comprendre l'invisible et modéliser l'abstrait. Mes cours de physique quantique du S5 étaient ceux que j'attendais le plus, et je n'ai pas été déçu une seule seconde : c'est un domaine qui me passionne !
 * **🚀 L’infiniment grand (Espace) :** L'astrophysique et le secteur aérospatial représentent pour moi l'excellence de l'ingénierie et c'est un univers qui m'intéresse énormément.
-* **🛠️ Expériences marquantes :** * J'ai travaillé sur la modélisation de **cavités Fabry-Perot** utilisées pour la détection d'ondes gravitationnelles au sein de l’**IJC Lab**.
+* **🛠️ Expériences marquantes :**
+*   * J'ai travaillé sur la modélisation de **cavités Fabry-Perot** utilisées pour la détection d'ondes gravitationnelles au sein de l’**IJC Lab**.
     * J'ai exploré les **Corps Finis** $F_{p^m}$ à l'Institut Mathématiques d'Orsay. Si j'ai adoré ces magnifiques structures mathématiques, cela a aussi confirmé ma préférence pour la physique, qui me permet de modéliser concrètement le monde qui nous entoure.
 
 ---
