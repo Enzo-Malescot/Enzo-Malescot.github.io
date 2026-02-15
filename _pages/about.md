@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+----- 
+
 # 👋 Salut, moi c’est Enzo ! 
 
 Depuis que je suis tout petit, je suis fasciné par le fonctionnement du monde. 🌌 Ce qui n'était qu'une curiosité d'enfant est devenu une véritable vocation scientifique. Aujourd'hui, je décode ces mystères en **Double Licence Mathématiques et Physique** à l'Université Paris-Saclay.
