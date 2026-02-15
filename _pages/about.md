@@ -17,10 +17,10 @@ Mon quotidien ? Un mix entre la rigueur du **Laboratoire de Mathématiques d'Ors
 
 ### 🔬 Mon Labo Mental (Intérêts & Projets)
 
-J'aime naviguer entre les extrêmes, là où la modélisation mathématique rencontre enfin la réalité :
+J'aime naviguer entre les extrêmes, là où la modélisation mathématique rencontre la réalité :
 
-* **⚛️ L’infiniment petit (Quantique) :** Comprendre l'invisible et modéliser l'abstrait. Mes cours de physique quantique du S5 étaient ceux que j'attendais le plus, et je n'ai pas été déçu une seule seconde : c'est un domaine qui me passionne !
-* **🚀 L’infiniment grand (Espace) :** L'astrophysique et le secteur aérospatial représentent pour moi l'excellence de l'ingénierie et c'est un univers qui m'intéresse énormément.
+* **⚛️ L’infiniment petit :** Comprendre l'invisible et modéliser l'abstrait. Mes cours de physique quantique du S5 étaient ceux que j'attendais le plus, et je n'ai pas été déçu une seule seconde : c'est un domaine qui me passionne !
+* **🚀 L’infiniment grand :** L'astrophysique et le secteur aérospatial représentent pour moi l'excellence de l'ingénierie et c'est un univers qui m'intéresse énormément.
 * **🛠️ Expériences marquantes :**
 
     * J'ai travaillé sur la modélisation de **cavités Fabry-Perot** utilisées pour la détection d'ondes gravitationnelles au sein de l’**IJC Lab**.
