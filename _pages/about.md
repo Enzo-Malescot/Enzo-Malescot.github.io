@@ -52,4 +52,6 @@ Quand je ne suis pas en train de noircir des tableaux blancs, vous me trouverez 
 * **💻 Dev :** J'apprends à coder ce site (et c'est plutôt fun !).
 * **📓 Cours :** Révisions intenses pour le S6 et préparation des oraux.
 * **🎲 Challenge :** Dompter les parités du Rubik's Cube 4x4.
+
+  
 ---
