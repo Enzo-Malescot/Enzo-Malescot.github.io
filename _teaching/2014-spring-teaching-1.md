@@ -1,20 +1,16 @@
 ---
-title: "Teaching experience 1"
+title: "Enseignement en Mathématiques et Physique"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Cours Particuliers"
+permalink: /teaching/2025-lipps-tutoring
+venue: "Lycée International de Palaiseau (LIPPS)"
+date: 2025-04-01
+location: "Palaiseau, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Accompagnement personnalisé d'élèves de Première en Mathématiques et Physique. 
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* **Objectif :** Préparer les élèves à réussir au mieux les épreuves du Baccalauréat.
+* **Transition :** Consolidation des bases scientifiques pour assurer une transition fluide vers l'enseignement supérieur.
+* **Méthode :** Pédagogie adaptée aux besoins spécifiques et renforcement de la rigueur de rédaction scientifique.
+* **Inspiration :** Au-delà du programme, je m'efforce d'ouvrir leur esprit sur la beauté des sciences. Mon but est de leur montrer que les mathématiques et la physique ne sont pas de simples matières scolaires, mais des outils fascinants pour comprendre le monde qui nous entoure.
